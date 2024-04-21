@@ -3,7 +3,7 @@ Terraform-Assignment-5
 
 **For the detailed solution to this assignment, click this link:** https://medium.com/devops-guides/install-apache-2-print-the-ip-address-of-the-instance-in-a-file-on-local-terraform-assignment-5-a1b178bdaf40
 
-**Step 1: **Destroy the previous assignment resources using the command: terraform destroy
+**Step 1:** Destroy the previous assignment resources using the command: terraform destroy
 
 **Step 2:** Assignment 4 Resources will be successfully deleted.
 
